@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163201143304",
+    "project_id": "flutter-notification-5e8b4",
+    "storage_bucket": "flutter-notification-5e8b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163201143304:android:de201ade33268758c5b7bd",
+        "android_client_info": {
+          "package_name": "com.learning.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163201143304-fbcekq68cof5q115fhe165bb2fii5j59.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbk57rxdBNMbadPzzo4OMb6stFK8Gv8FA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163201143304-fbcekq68cof5q115fhe165bb2fii5j59.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
